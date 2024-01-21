@@ -1,0 +1,138 @@
+[
+    {
+        "bedNo": "1",
+        "roomId": "1",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed 1"
+    }, {
+        "bedNo": "2",
+        "roomId": "1",
+        "machineName": "Fresenius 4008S",
+        "bedName": "Bed 2"
+    }, {
+        "bedNo": "3",
+        "roomId": "1",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed 3"
+    }, {
+        "bedNo": "4",
+        "roomId": "1",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed 4"
+    }, {
+        "bedNo": "5",
+        "roomId": "1",
+        "machineName": "Fresenius 4008S",
+        "bedName": "Bed 5"
+    }, {
+        "bedNo": "6",
+        "roomId": "1",
+        "machineName": "Fresenius 4008S",
+        "bedName": "Bed 6"
+    }, {
+        "bedNo": "7",
+        "roomId": "1",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed 7"
+    }, {
+        "bedNo": "8",
+        "roomId": "1",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed 8"
+    }, {
+        "bedNo": "9",
+        "roomId": "1",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed 9"
+    }, {
+        "bedNo": "10",
+        "roomId": "1",
+        "machineName": "Fresenius 4008S",
+        "bedName": "Bed 10"
+    }, {
+        "bedNo": "11",
+        "roomId": "1",
+        "machineName": "Fresenius 4008S",
+        "bedName": "Bed 11"
+    }, {
+        "bedNo": "12",
+        "roomId": "1",
+        "machineName": "Fresenius 4008S",
+        "bedName": "Bed 12"
+    }, {
+        "bedNo": "13",
+        "roomId": "1",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed 13"
+    }, {
+        "bedNo": "14",
+        "roomId": "1",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed 14"
+    }, {
+        "bedNo": "15",
+        "roomId": "2",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed Bubble 1"
+    }, {
+        "bedNo": "16",
+        "roomId": "2",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed Bubble 2"
+    }, {
+        "bedNo": "17",
+        "roomId": "2",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed Bubble 3"
+    }, {
+        "bedNo": "18",
+        "roomId": "2",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed Bubble 4"
+    }, {
+        "bedNo": "19",
+        "roomId": "2",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed Bubble 5"
+    }, {
+        "bedNo": "20",
+        "roomId": "2",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed Bubble 6"
+    }, {
+        "bedNo": "21",
+        "roomId": "2",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed Bubble 7"
+    }, {
+        "bedNo": "22",
+        "roomId": "2",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed Bubble 8"
+    }, {
+        "bedNo": "23",
+        "roomId": "2",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed Bubble 9"
+    }, {
+        "bedNo": "24",
+        "roomId": "2",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed Bubble 10"
+    }, {
+        "bedNo": "25",
+        "roomId": "2",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed Bubble 11"
+    }, {
+        "bedNo": "26",
+        "roomId": "2",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed Bubble 12"
+    }, {
+        "bedNo": "27",
+        "roomId": "2",
+        "machineName": "Nikkiso DBB-05",
+        "bedName": "Bed Bubble 13"
+    }
+]
